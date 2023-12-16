@@ -1,5 +1,7 @@
 # sturdy-tribble (but it's DeepGaze applied to cartoons)
 
+see https://github.com/matthias-k/DeepGaze/tree/main for original repo :)
+
 ## DeepGaze IIE pour le calcul de saillance en situation d'image non réaliste
 
 ### Principe d'utilisation et source
