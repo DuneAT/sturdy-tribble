@@ -1,4 +1,4 @@
-# sturdy-tribble (but it's DeepGaze applied to carttons)
+# sturdy-tribble (but it's DeepGaze applied to cartoons)
 
 ## DeepGaze IIE pour le calcul de saillance en situation d'image non réaliste
 
